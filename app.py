@@ -1,7 +1,7 @@
 import pandas as pd
 import openpyxl
 import uuid
-file_obj = open("BIAT.txt", "r")
+file_obj = open("BIAT.txt", "r") #BEDEL ESM FICHIER HOUNI 
   
 
 file_data = file_obj.read()
