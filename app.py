@@ -33,8 +33,8 @@ while index<len(lines)-3:
     elif len(list)==2:
         list_Libelle_operation.append(list[0])
         list_Montant.append(list[1])
-        list_Reference.append('Nan')
-        list_Date_opération.append('Nan')
+        list_Reference.append('')
+        list_Date_opération.append('')
         list_date_valeur.append(list[0])
         i=i+1
         index=index+1
